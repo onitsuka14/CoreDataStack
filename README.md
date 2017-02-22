@@ -1,0 +1,2 @@
+# CoreDataStack
+Simple Core Data
